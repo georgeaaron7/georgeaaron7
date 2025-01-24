@@ -1,6 +1,6 @@
-# Hi there, I'm Aaron! 👋
+# Hi there, I'm Aaronn
 
-Welcome to my GitHub profile! I'm an electronics engg student with a keen interest in machine learning.
+Welcome to my GitHub profile! I'm an Electronics and Communications Engineering student with a keen interest in machine learning and finance.
 
 ## Skills
 
